@@ -1551,6 +1551,12 @@ footer p a:hover {
     color: #f5a425;
 }
 
+/* Back-to-top */
+
+
+
+
+
 @media screen and (max-width: 992px) {
   .features { background-color: #0c1228; }
   .features-content { position: relative; }
